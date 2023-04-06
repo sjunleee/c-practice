@@ -1,2 +1,2 @@
 # c-practice
-Practising C programming
+Practise C programming
